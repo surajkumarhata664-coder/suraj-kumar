@@ -1,1 +1,2 @@
-# suraj-kumar
+project1
+this is the coding of AI/ML
